@@ -1,0 +1,460 @@
+The value of property stems from its scarcity. The value of innovation blooms from its abundance. Knowledge has no limits.
+
+Wealth is the ability to have what you want.
+
+Excepting thievery, the only way to gain wealth is by making others wealthier too.
+
+Work creates wealth. Trade creates wealth. Innovation creates wealth exponentially.
+
+wealth = ((resources + work) * trade) ^ innovation
+
+The universal measure of wealth is time. Specifically, the time one must work to obtain something desired.
+
+Wealth is the ability to obtain desired things. Four main things create wealth.
+1. Resources. Theft is anti-resources.
+2. Work. Coercion is anti-work.
+3. Trade. Taxes are anti-trade.
+4. Innovation. Monopoly is anti-innovation.
+
+Trade depends on trust which depends on language.
+
+Buying and selling are a kind of trade. Specifically, one in which currency is on one side of the transaction.
+
+Tipping should be proportional to the effort x care that went into the service. The price on the bill is immaterial. Price x percentage is merely a heuristic.
+
+Money to buy things that tend to depreciate is spent. Money to buy things that tend to appreciate is invested.
+
+Investment growth is greatest by investing in things with the greatest potential x probability of appreciation.
+
+The first best habit a young person can practice to start building wealth is to keep track of precisely what’s in their pockets and accounts. Simply keeping track has a magical way of causing it to grow.
+
+To accumulate wealth, keeping track is unimportant. With diligence and good judgment wealth will accumulate.
+
+The value of one’s effort is greatest when young because the returns have the longest amount of time to compound. That is true starting shortly after developing good enough judgment to achieve positive returns. Many 20-year-olds’ time, if used well, is worth well above $1000 per hour.
+
+In 2025, in terms of discretionary income (disregarding government benefits and PPP), a household at the 20th percentile in the United States has a bit more than a household at the 50th percentile in the EU, 80th percentile in China, and the 98th percentile in India.
+
+Income changes with age. 50% of Americans will spend at least 1 year of their lives above the 90th percentile.
+
+Absolute poverty sucks more than relative poverty.
+
+Two kinds of financial freedom: Having enough wealth and having nothing to lose.
+
+Wealth gives choices. Choices allow tradeoffs. Tradeoffs are how to optimize. Optimization creates wealth.
+
+In general, compensation is proportional to risk * accountability. This is worth considering when asking for a raise. It is also why startup founders deserve to get rich, stock options should vest, and golden parachutes are morally hazardous.
+
+Money is the ultimate transmogrifier.
+
+If economists had chosen the term “destructive creativity” instead of “creative destruction” maybe entrepreneurs would get more respect.
+
+Even a family-run convenience store is a corporation. Calling corporations greedy merely says that they try to earn money. The pejorative phrase “greedy corporation” is meaninglessly imprecise.
+
+Monopolies from innovation, whether through patents or the marketplace, make society more prosperous. Monopolies from political influence, coercion, or violence harm society. Good watchdogging recognizes the difference.
+
+Why do states as varied as California, Connecticut, Hawaii, New York, DC, Oregon, New Jersey, and Massachusetts have the highest taxes on the wealthy, minimum wages for the poor, and controls on housing costs yet also the highest costs of living and inequality?
+
+Corruption offends all compassionate people. It is irrelevant to a discussion of the principles of economic systems unless the discussion specifies how a system’s principles distinctly cause or prevent corruption.
+
+Film turned community theater from a profession into a hobby. AI will turn film acting from a profession into a hobby. Cars turned horse riding from a profession into a hobby. Time and technology cannot be stopped.
+
+Like horseback riding and basket weaving, computer programming will not be a lost skill. It will just have less demand and eventually less supply.
+
+Innovations are successful when their benefits outweigh their negative effects. Mitigating those with another innovation makes life better. Restraining an innovation foregoes its benefits. Declaring it unethical makes a value judgement that is not universal.
+
+Many technologies are seen as unethical when invented. But when their benefits become appreciated, denying them to people becomes unethical.
+
+The beauty of open source and distributed/decentralized systems is in realizing the benefits of division of labor without the costs of the principal-agent problem.
+
+Passionately legislating limits on malevolent uses of new technologies while giving insufficient disinterested foresightful deliberation has a high probability of regulatory capture by special interest groups and impeding beneficial improvements.
+
+Much unknown risk is taken for the purpose of avoiding small known risks.
+
+Time makes the impossible possible. If you survive.
+
+Fighting change will fail. But designing the change can work.
+
+A great thing about innovation is that it gives us ever more things to be nostalgic about.
+
+A startup company is an anti-social amount of work on an emotional roller coaster with a likely ultimate disappointment. But, it might make millions of people happier.
+
+Innovation density (per person, per hour, and per dollar invested) is greatest in early stage startup companies.
+
+Being able to risk embarrassment enables one to attempt things that can yield large successes. Embarrassing outcomes are less likely than expected and come fast enough to try again. Large successes are almost certain for those who can risk embarrassment.
+
+At the earliest stages of a startup company, the CEO’s main responsibility is selling. That is selling the product to customers and the stock to investors. It’s about the same for public companies.
+
+Revenue is the best non-dilutive funding. Unless supporting early customers takes resources away from developing a later larger revenue stream. In that case, grants are the best non-dilutive funding.
+
+Investors having worked in different fields have a better sense of what a winner looks like.
+
+In business, don’t invent what you can buy. Therefore, in B2B, make the boring things your customers need. You can sell it more than once. Don’t make whatever provides your customer their competitive advantage. You can only sell that once. In fact, zero times.
+
+The ideal portfolio invests everything in the one asset that will have the greatest valuation increase by the time it needs to be sold. Diversification is a hedge against the uncertainty of which asset (and what time) that will be.
+
+How to succeed in investing.
+1. Compound
+2. Don't get wiped out
+
+Four ways to make predictions empirically (from past data)
+1. Directional persistence
+2. Mean reversion
+3. Cycles
+4. Triggered repeats
+What cannot be predicted empirically but can rationally (using reasoning)
+5. Discontinuities
+That is what entrepreneurial success depends on.
+
+Investing requires predicting the future. Finding opportunities for good returns comes from the uncomfortable exercise of guessing at the unknowable. Extrapolating from trends masks profitable insights. Still, trend charts are stimulating, like a good story. That’s why the media loves trend charts.
+
+History is not directly useful in predicting the future. But it does give insight into parties' situation and interests.
+
+Most charts of asset prices (such as stock prices), if shown with the vertical (y) axis starting at zero, would evoke much less fear or excitement.
+
+Spending increases entropy.
+Investing decreases entropy.
+
+The phrase "supply-demand mismatch" in a market with elasticity is a misnomer for an undesired price. A famine results from a supply-demand mismatch. Wage rates do not.
+
+Startup companies are the ones curing cancer, ending Alzheimer’s disease, creating crops to end hunger, and engineering microbes to slow climate change. Venture capital is philanthropy.
+
+$1 donated to the Disease Foundation will help to relieve somebody's suffering in the near future. The same invested in the right startup will ensure that nobody in the farther future ever suffers the disease again. And give back $100.
+
+Through intense competition and accountability, invested venture capital transforms money to health and happiness more efficiently than charity does.
+
+Charity is indulgence in self-esteem.
+
+To know the truth, learn something that might be true and try, seriously, to prove it false. Truth is confirmed to the extent of the effort that cannot prove it false.
+
+Creativity supposes new ideas. Science attempts to prove them false.
+
+A hypothesis is an idea that is intuitively true. A hypothesis becomes a theory after zealous, diligent testing fails to prove it false.
+
+Does science discover things that engineering puts to practical use or does engineering figure out useful things that science then explains?
+
+It is possible to be reasonable, rational, and wrong. It can be tempting, when right, to view a debating counterpart as unreasonable and irrational. The best debater admits when the other’s argument is reasonable and rational and explains why it is wrong.
+
+Time is unidirectional. The accumulation of human knowledge tends to be. But it can be diminished. It has been in some earlier societies. The Nobel prize winners' book Why Nations Fail gives some examples.
+
+Tokenization of concepts (words) and digitization (numbers) set humans apart from other animals. They enable error-free information transfer, which enables precision in a noisy world, which enables communication of complex concepts, which enables the modern world.
+
+Two kinds of efficiency:
+(a) Allocation of scarce resources (e.g. energy, time, money, attention) to uses in proportion to importance
+(b) Allocation of scarce resources to uses in a waterfall from most towards least important
+
+People tend to inaccurately estimate or even completely overlook event probabilities. As a result, in consideration of unpleasant but very improbable possibilities, people choose to incur, and policymakers impose, irrational costs for avoiding the possibility.
+
+Being aboard any modern commercial airplane is much safer than driving, even in the safest automobiles. A modern autonomous vehicle is safer than one driven by even the safest person.
+
+When it was difficult to make ornate things such as frilly clothing, elaborate metal objects, and fancy fonts they became status symbols. Once technology made their production cheap, simplicity became fashionable.
+
+Nomads have more leisure but farmers use land efficiently. Malthus underestimated technology. But perhaps the toil of farming at the cost of nomadic lands is a taste of his predicted doom.
+
+Learning empirically is misleading in a field in which number of examples is low and dimensions of variability high.
+
+MBA case studies are usually inapplicable and applying their lessons is dangerous.
+
+Learning a subject, the more you know, the more you realize how much you don't know. Until a point where there is less and less you don't know. For learning everything, we are ever learning how much we don't know.
+
+Mastering anything gives the confidence to fumble through something new. Fumbling is a fast way to learn. That’s why people who are great at one thing tend to be good at many.
+
+Understanding a complex subject requires learning multiple levels of recursive exceptions.
+
+Explaining a complex subject clearly requires recursing to the right depth for the audience and accepting the discomfort of being inaccurate. Inaccuracy helps clarity.
+
+Researching a complex subject requires supposing exceptions and demonstrating evidence that they are correct.
+
+Social science has sides. Real science does not.
+
+What a social scientist writes tells about society. What they omit tells about them.
+
+Many social science publications are untrustworthy, consisting of an inferred intuitive conclusion with statistics implying a cause without explaining (a) how the cause leads to the conclusion and (b) how other causes would not lead to the same conclusion.
+
+Few things in nature come in discrete values. Most things worth knowing can only be accurately described as amounts, degrees, or probabilities.
+
+Information transfer is most accurate when binary. Human nature innately understands this. 1-bit binary identity grouping minimizes effortful analysis.
+
+There is no such thing as trustlessness in blockchain. It just means reallocating trust to the system and the consensus instead of the counterparty.
+
+A diagnostic test that always shows a positive result will be correct for 100% of positive cases. But it’s completely useless.
+
+Precision is specificity. Accuracy is correctness.
+Pi=3.1 is very accurate but not very imprecise.
+Pi=3.1295606 is very precise but not very accurate.
+
+The choice of base-10 for the decimal system is arbitrary, likely a result of people using fingers to calculate. Had they used hands instead, base-2 might have become the standard. It would have been easier to teach people how computers do math.
+
+Logic: When a low probability event occurs, if it is momentous, we tend to overestimate the probability of its recurrence.
+Reason: When a momentous event occurs, even if it is low probability, it is reasonable to reassess its probability.
+
+Crossing a street mid-block is safer than crossing at an intersection.
+
+A rigid 4-leg chair will always rock. Only 3-legged chairs are stable.
+
+The Egyptians designed pyramids using papyrus. The Mayans used graph paper.
+
+A rectangle is a Manhattan ellipse.
+
+The notion that people evolved from monkeys insults monkeys. People and monkeys evolved from a common ancestor that was no more a monkey than it was a person.
+
+We are all mutants. Everybody has some genes that are different from normal. Each of our unique combinations of mutations gives us a super ability in a certain situation.
+
+We can culture human cells to save human lives. We can culture animal cells for meat to eat. Why not culture human cells to eat?
+
+A human life begins somewhere between meiosis and college.
+
+Germ line gene editing would no more increase human inequality than, for example, access to electricity does. The fallacy otherwise is premised on the implausible assumption that costs of the technology will remain high over the timescale of human generations.
+
+Taste and smell are polydimensional but very low bandwidth. Hearing is 1D and fairly low bandwidth. Vision is 2D and high bandwidth, though writing is only 1D and fairly low bandwidth. Feel is 3D and low bandwidth. Augmented sensation can be polydimensional and high bandwidth.
+
+Various animal species have evolved to both discern and emit complex signals by touch, smell, and sound. Many species can discern complex electromagnetic signals (vision). Why have no animals evolved to *emit* complex electromagnetic signals?
+
+Mammals suck.
+
+Despite what they might say, sustaining the natural environment is less important than enjoyment, comfort, and convenience for people who eat meat or dairy, heat or cool single family homes, or drive to work.
+
+If you want to preserve nature, let it be. Stay in the city.
+
+NIMBYism and fear of climate change are similarly rooted in the comfort of a familiar environment.
+
+Oil companies don’t pollute the air. Drivers do.
+
+Owning a car enables personal opportunities. 92% of US households own one. Globally, it is under 20%. To slow climate change, which countries' people should be denied those opportunities?
+
+The industrial revolution has come full circle. Electric cars are powered by burning coal.
+
+Far more suffering is caused by greenhouse gas emissions than by radioactive waste.
+
+A key market for new portable nuclear reactors is powering mining operations. Imagine how much easier it will be to mine coal for powering the electric grid.
+
+Fossil fuels are mostly from ancient microbes, not dinosaurs or trees. The most effective way to capture and sequester atmospheric carbon is with microbes.
+
+Coastal fauna distribute ocean nutrients in California forests. Fallout of wildfire ash over the American heartland distributes those nutrients, which are unavailable in synthetic fertilizer. Wildfires in California's resilient forests make the American food supply healthier.
+
+GMOs help not harm nature. Species modified for a trait valuable to humans lose the balance of traits needed to survive natural selection. By producing more of what humans need, GMOs reduce demand for perturbing nature by harvesting its organisms.
+
+Save endangered species. Store their DNA sequences on your hard drive.
+
+Experience adds dimensionality to assessing people. Children categorize with coarse granularity. Diversity in life experiences teaches nuance.
+
+No species willingly gives up something of value, even for something of greater value (except symbiosis, nuptial, and familial favors).
+Barter, our superpower, is distinctly but not innately human. It depends on our ability to share complex concepts using language.
+
+Misinformation is as old as media. We will survive amplification by AI like we did the printing press. Leaders fear misinformation out of both benevolence and fear of losing power. Few see a difference. It’s worth considering free press principles in regulating AI.
+
+Pascal's Wager (believing in God because the potential gain of eternal life outweighs the finite cost of belief, while disbelief risks infinite loss) justifies AI precautionary regulation at any cost.
+
+Pessimism sells, especially when dressed up as optimism.
+
+So far, techno pessimists have been wrong every time. They bear a heavy burden to explain why it is different this time.
+
+The singularity is the new Y2K.
+
+In the future, being smart will not be an advantage.
+
+Every system of government is built on the innate human affinity towards populism. The belief that we are in a struggle to avoid repression by a powerful other class of people.
+
+What autocrat hasn't given autocracy a bad name?
+
+Mediacracy: A system of government in which leaders are elected by the media.
+
+A free market is democracy in commerce. But democracy is not a free market in government.
+
+Direct democracy was great until populations grew too large and only representative democracy was practical. Could online polls make direct democracy great again?
+
+National democratic politics is like sports. Fans cannot affect the outcome but watch intently and root for their team with great passion.
+
+US presidential races are like Super Bowls: spiritually important to fans of the game but of little concern to most people’s life decisions: where to live, what to study, what job to take, what to eat, etc.
+
+Unlike hundreds of daily violent deaths among millions of starving homeless people under siege in Sudan, the daily trivialities of a US presidential race have a lower cost of news production and are just as effective for dragging readers’ eyes across ads.
+
+"The News" is entertainment. Reality is mostly boring. If the media reported reality accurately, people would stop watching. The more the news excites passions, the less it is probably giving an accurate understanding of reality.
+
+Denomination demonization is inevitable in party politics.
+
+The wealthier a nation is, the less it matters which political party wins.
+
+Advocates advance one and exclude the other side's arguments without concern for truth. Judges, researchers, and teachers seek truth by studying both sides' arguments. Passion challenges effectiveness in such professions.
+
+Why do judges but not professors recuse themselves when they have a passionate opinion on a controversy?
+
+Better educated populations are wealthier. What would the world be like if we paid students to learn?
+
+What would the world be like if employers could not ask job applicants about their academic degree?
+
+The stronger the safety net, the higher a lefty can climb. The weaker the safety net, the more diligently a righty will climb.
+
+Language and customs evolve from one generation to the next. The point in history at which modern culture displaced traditional culture is arbitrary.
+
+The greatest advances in science resulted from questioning the dogma of the aristocracy in eras when that was safe. Current trends seem to be towards danger for questioning dogma. This might be exacerbated by the belief reinforcement of curated media.
+
+Leaving an enduring legacy requires humility about ones own wisdom.
+
+Decisions are tradeoffs with costs and benefits. Considering benefits while overlooking costs often harms intended beneficiaries.
+
+Now California requires every product and even paper receipts themselves to warn that they are poisonous. Is it worth annoying everybody with an "everything alarm" to save nobody who will change their behavior?
+
+Every law and regulation creates economic winners and losers among the governed.
+
+A minimum wage picks winners and losers. A different minimum makes different cohorts. The least skilled are always losers, pushed to grey markets. With low unemployment, minimums are merely a cost to consumers. With high unemployment, it's regressive.
+
+Rent control benefits current residents when voted in. Afterwards, rents are higher, less housing is built, buildings go unmaintained, new workers are excluded, especially low income ones, longer commutes mean less time with family, social mobility decreases, black markets arise.
+
+Income tends to grow throughout a career. If women partnered with younger men, families would find it economically rational for men to take time off to care for children.
+
+Diversity = equity + fairness
+
+Gender inequity in society begins when, in response to finding out about a new baby, people ask the gender and when, upon meeting a new baby, compliment it, accordingly, as either beautiful or handsome.
+
+People fear losing valuable things. Control captures value. To keep control, leaders must sometimes act against the group’s interest. This is rationalized as benevolence since it is natural to trust one’s own motives over others’. Good leadership is self limiting. But rare.
+
+Governments are riddled with principal-agent problems. Transparency, terms limits, and gridlock protect the governed.
+
+Governments that block technology for internal protection endanger themselves in external competition. The risk of foreign exploitation necessitates domestic exploration.
+
+Chimpanzee DNA and human DNA are 98.8% the same. How many gene edits would it take for a chimpanzee to gain human rights?
+
+The idea that “screen time” is harmful to children is misleadingly simplistic. Spending youthful time programming computers is generally good for the child’s and society’s future. We might be better off by encouraging more screen time of the right kinds.
+
+Is something art because the beholder sees it as such or because its creator declares it to be? Can AI generate true art?
+
+Is AI-generated pornography immoral/degrading?
+
+Unhappy teenagers are all alike; every happy teenager is happy in their own way.
+
+Happiness is being in control.
+
+Success belongs to the team. Responsibility is individual.
+
+Much of the greatest cruelty by and against humanity is enabled by placing the interests of the collective above those of the individual.
+
+"Cultural fit" is the legally permissible and politically correct term to justify any kind of hiring -ism bias.
+
+Most books can be well summarized in a tweet. But the effort of getting published is a filter on ideas worth considering. An imperfect filter.
+
+A kitchen silverware drawer says a lot about somebody's personality.
+
+Well considered pruning can turn any bush into a strong, tall tree or any tree into a beautifully shaped bush. Though, not every thought-provoking fact about plants is an analogy for human endeavors.
+
+When somebody feels strongly about a controversial subject, they are probably overlooking a valid concern. Subjects are only controversial when there are valid concerns on both sides.
+
+Strong opinions are often the result of oversimplifying something complex. Questioning them can be enlightening.
+
+Usually, in the long run, whoever argues the evidence prevails over whomever argues the rules.
+
+Objective things exist whether or not they are believed. Subjective things are believed whether or not they exist.
+
+It is easier to think about what can be seen than what can’t. It is easier to think about what has happened than what might.
+
+It is more comfortable to think about the past than the future. It is more useful to think about the future than the past.
+
+Attributes of a particular instance are not evidence that a similar instance would be the same. They only show a single possibility.
+
+Beware inferring a cause from a correlation. Four kinds of causes can make an AB correlation:
+A causes B
+B causes A
+C causes A and B
+random chance
+
+When something looks wrong, figure out why it is that way before criticizing it.
+
+It is lazy to criticize a person, meaningful to criticize their actions, and informative to criticize their ideas.
+
+Most things worth knowing can be learned for free.
+
+Teaching is like learning twice.
+Writing is like reading twice.
+
+Merely learning is selfish. Learning to teach is neutral. Learning and using the knowledge to create is respectable. If the creation is useful to others, the learning was noble.
+
+Trying to prove others wrong is an effective way to learn. Failure is confirmation. Success is education. Keeping it to oneself helps to maintain friendly relationships. Trying to prove oneself wrong is equally effective but recurses faster.
+
+The discipline to ignore the interesting things people say make it easier to learn from observing what they do. Perhaps it could be called a mental mute button.
+
+Mere choice of words to express the same idea can make big seem small, small seem big, important seem unimportant, good seem bad, true seem false.
+
+A right to compensation is often sold under the word "protection". This is comforting but incorrect. Insurance offers compensation for, not protection from, harm. Only in a superstitious mind is a right to compensation protection.
+
+News reports seem more enlightening when presented in the form of an expert interview even though the time spent asking questions could have been used to deliver even more enlightenment. The most enlightening news sources don’t use interview format.
+
+Citations seem profound when the name of the source is prefixed with the phrase “Nobel prize winner”. The prefix “a Harvard study” does the same to even mediocre research. This is the Halo Effect. The merit of an idea is independent of its source.
+
+Nobel prize winners were most insightful before they were Nobel prize winners.
+
+That the loss of government funding for one specific university is especially detrimental to progress in science and society is a sign that the opportunity to advance progress is sub-optimally concentrated within that university.
+
+Compromising is inefficient. When there are multiple choices, and it’s not clear which is best, splitting the difference ensures a suboptimal outcome. Research and rational consideration will tend to yield the best result more often than a gut feel will, even if based on much experience.
+
+If you choose not to choose, you have chosen somebody else's choice.
+
+When an unfortunate venture reaches a situation in which no hope remains for achieving its objective, striving onward has a net effect somewhere between wasteful and harmful to others. Sometimes quitting is most honorable.
+
+To suffer for your principles is holy. To cause others to suffer for your principles is ass holy.
+
+There are always two parties who can end a dispute.
+
+If somebody is not trustworthy, at least they could have the courtesy to be predictable.
+
+In a new relationship, the choices of restaurants, movies, etc is the union of the partners' preferences. In an old relationship it is the intersection.
+
+Driving is dangerous. Some cars are safer than others. By choose which car to buy, one is putting a price on a human life.
+
+For people, places, and things, interestingness gradually declines as familiarity grows. When, occasionally, something uninteresting becomes interesting, it usually happens suddenly.
+
+It is difficult to change one’s personality. But an extended period of humiliation usually cures arrogance.
+
+Practicing occasional public failure frees a person, mentally, to take large risks. Many great things can only be accomplished by taking large risks.
+
+The word "percent" is a warning sign that what is being said is misleading.
+
+The more interesting a statistic is, the more likely it is misleading.
+
+Authentic scientists and honest experts rarely speak in absolutes.
+
+The point that divides the unchangeable from the unknowable is what we call now.
+
+The words “need” and “should” lack meaning unless accompanied by an explanation of a benefit of fulfilling or consequence of failure to fulfill what is allegedly required.
+
+Statements using words like “enough” or “too” without the word “to” or “for” are meaningless and beg critical questioning. For example, discussing whether 20 minutes is too long or not long enough is meaningless without specifying whether it is for baking a loaf of bread or a pizza.
+
+Any “why” question has an infinite number of correct answers. “How” questions are nearly as broad. “Who”, “what”, “where”, and “when” are much more specific.
+
+An ounce of inaccuracy saves a pound of explanation.
+
+It is difficult to read while listening to somebody talk. In a business presentation, do not expect the audience to remember more than a few words written in the slides.
+
+In the old days we were glad to have a good day with no problems. In modern times we are thrilled to have an awesome day with no issues.
+
+Seem expert → be clear
+utilize → use
+provide → give
+initiate → start
+individual → person
+prior to → before
+obviously →
+
+The phrase “I’m sure” usually accompanies an assumption.
+
+The phrase “with all due respect” usually precedes a phrase showing very little.
+
+The phrase “last but not least” raises the question, “Which one was least?”
+
+The phrase “split the baby”, which refers to the bible story of King Solomon, means destroying something two people want but can’t share. The phrase is often mistakenly used to describe compromising by “splitting the difference”.
+
+What’s the past tense of the verb “can”?
+
+The actors performance was moving, an effect that was effectively effected by his affect and affected me deeply.
+
+Of common written languages, Korean is the most logical. Syllables are atomic and logographic like Chinese but phonemes are alphabetic like English such that learning pronunciation is simple.
+
+Any analogy, extended far enough, falls apart. It is clearer to describe subjects directly, beginning with any prior knowledge needed to enable comprehension.
+
+In the US, statutes are laws from legislation by Congress. Regulations are made by the executive branch. Regulations are meant to be no more than rules for implementing the statutes. Chief executives (Presidents) of both major parties habitually exceed their constitutional authority.
+
+Stare decisis is intended to maximize people’s certainty about the law. It is the legal principle that, where laws are ambiguous, they should be clarified (by courts or Congress) in whatever way most reasonable people would have supposed the law to be.
+
+The brain is the last body part for which doctors can still admit to having no idea how it works.
+
+Many people worry more about genetic changes in crop plants than genetic changes in their own bodies.
+
+Many people worry about long-term effects of traces of harmful chemicals in food and water but ignore long-term effects of the high concentration powerful chemicals that are their daily medications.
