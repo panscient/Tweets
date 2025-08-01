@@ -179,7 +179,7 @@ There is no such thing as trustlessness in blockchain. It just means reallocatin
 A diagnostic test that always shows a positive result will be correct for 100% of positive cases. But it’s completely useless.
 
 Precision is specificity. Accuracy is correctness.
-Pi=3.1 is very accurate but not very imprecise.
+Pi=3.1 is very accurate but not very precise.
 Pi=3.1295606 is very precise but not very accurate.
 
 The choice of base-10 for the decimal system is arbitrary, likely a result of people using fingers to calculate. Had they used hands instead, base-2 might have become the standard. It would have been easier to teach people how computers do math.
