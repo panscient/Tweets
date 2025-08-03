@@ -116,6 +116,8 @@ Investing decreases entropy.
 
 The phrase "supply-demand mismatch" in a market with elasticity is a misnomer for an undesired price. A famine results from a supply-demand mismatch. Wage rates do not.
 
+Product innovation pushes the demand curve further from the origin.
+
 Startup companies are the ones curing cancer, ending Alzheimer’s disease, creating crops to end hunger, and engineering microbes to slow climate change. Venture capital is philanthropy.
 
 $1 donated to the Disease Foundation will help to relieve somebody's suffering in the near future. The same invested in the right startup will ensure that nobody in the farther future ever suffers the disease again. And return $100.
