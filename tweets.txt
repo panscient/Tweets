@@ -6,7 +6,7 @@ Excepting thievery, the only way to gain wealth is by making others wealthier to
 
 Work creates wealth. Trade creates wealth. Innovation creates wealth exponentially.
 
-wealth = ((resources + work) * trade) ^ innovation
+wealth = ((resources + work) * trade * institutions) ^ innovation
 
 The universal measure of wealth is time. Specifically, the time one must work to obtain something desired.
 
