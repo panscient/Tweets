@@ -193,6 +193,9 @@ Pi=3.1295606 is very precise but not very accurate.
 
 The choice of base-10 for the decimal system is arbitrary, likely a result of people using fingers to calculate. Had they used hands instead, base-2 might have become the standard. It would have been easier to teach people how computers do math.
 
+Computer processor divide by multiplying. 
+Biological cells multiply by dividing.
+
 Logic: When a low probability event occurs, if it is momentous, we tend to overestimate the probability of its recurrence.
 Reason: When a momentous event occurs, even if it is low probability, it is reasonable to reassess its probability.
 
@@ -215,6 +218,10 @@ A human life begins somewhere between meiosis and college.
 Germ line gene editing would no more increase human inequality than, for example, access to electricity does. The fallacy otherwise is premised on the implausible assumption that costs of the technology will remain high over the timescale of human generations.
 
 Taste and smell are polydimensional but very low bandwidth. Hearing is 1D and fairly low bandwidth. Vision is 2D and high bandwidth, though writing is only 1D and fairly low bandwidth. Feel is 3D and low bandwidth. Augmented sensation can be polydimensional and high bandwidth.
+
+Biology is digitally-programmed chemistry. In the past, programs were chaotic, created by trial and error. In the future they will be neat and intentional.
+
+Chemistry is discrete physics. Biology is sequential chemistry.
 
 Various animal species have evolved to both discern and emit complex signals by touch, smell, and sound. Many species can discern complex electromagnetic signals (vision). Why have no animals evolved to *emit* complex electromagnetic signals?
 
@@ -349,6 +356,9 @@ Most books can be well summarized in a tweet. But the effort of getting publishe
 Creativity varies inversely to formality of clothing worn. Few people have a stroke of genius at a gala ball, but artists and programmers wear t-shirts, and most people get their best ideas in the shower.
 
 A kitchen silverware drawer says a lot about somebody's personality.
+
+Rain turns dust into mud.
+Sun turns mud into dust.
 
 Well considered pruning can turn any bush into a strong, tall tree or any tree into a beautifully shaped bush. Though, not every thought-provoking fact about plants is an analogy for human endeavors.
 
