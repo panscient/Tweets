@@ -161,7 +161,7 @@ Nomads have more leisure but farmers use land efficiently. Malthus underestimate
 
 Learning empirically is misleading in a field in which number of examples is low and dimensions of variability high.
 
-MBA case studies are usually inapplicable and applying their lessons is dangerous.
+MBA case studies are usually inapplicable, and applying their lessons is dangerous.
 
 Learning a subject, the more you know, the more you realize how much you don't know. Until a point where there is less and less you don't know. For learning everything, we are ever learning how much we don't know.
 
