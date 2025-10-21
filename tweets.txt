@@ -30,6 +30,12 @@ To accumulate wealth, keeping track is unimportant. With diligence and good judg
 
 The value of one’s effort is greatest when young because the returns have the longest amount of time to compound. That is true starting shortly after developing good enough judgment to achieve positive returns. Many 20-year-olds’ time, if used well, is worth well above $1000 per hour.
 
+4 means to achievement:
+-Dumb luck
+-Hard work
+-Intellect
+-Systemic influence
+
 In 2025, in terms of discretionary income (disregarding government benefits and PPP), a household at the 20th percentile in the United States has a bit more than a household at the 50th percentile in the EU, 80th percentile in China, and the 98th percentile in India.
 
 Income changes with age. 50% of Americans will spend at least 1 year of their lives above the 90th percentile.
@@ -484,7 +490,9 @@ The actors performance was moving, an effect that was effectively effected by hi
 
 Of common written languages, Korean is the most logical. Syllables are atomic and logographic like Chinese but phonemes are alphabetic like English such that learning pronunciation is simple.
 
-Any analogy, extended far enough, falls apart. It is clearer to describe subjects directly, beginning with any prior knowledge needed to enable comprehension.
+Any analogy, extended far enough, fails. It is clearer to describe subjects directly, beginning with any prior knowledge needed to enable comprehension.
+
+Many things that are discretely categorical, if looked at closely enough, are on a continuous spectrum.
 
 In the US, statutes are laws from legislation by Congress. Regulations are made by the executive branch. Regulations are meant to be no more than rules for implementing the statutes. Presidents from both major parties habitually regulate beyond their constitutional authority.
 
