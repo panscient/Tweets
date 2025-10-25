@@ -199,8 +199,8 @@ Pi=3.1295606 is very precise but not very accurate.
 
 The choice of base-10 for the decimal system is arbitrary, likely a result of people using fingers to calculate. Had they used hands instead, base-2 might have become the standard. It would have been easier to teach people how computers do math.
 
-Computer processor divide by multiplying. 
-Biological cells multiply by dividing.
+Computer divide by multiplying. 
+Cells multiply by dividing.
 
 Logic: When a low probability event occurs, if it is momentous, we tend to overestimate the probability of its recurrence.
 Reason: When a momentous event occurs, even if it is low probability, it is reasonable to reassess its probability.
