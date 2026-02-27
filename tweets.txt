@@ -154,6 +154,9 @@ Most people will never think a useful thought that has never been thunk by anybo
 
 Creativity supposes new ideas. Science attempts to prove them false.
 
+Hypotheses are rational. Intelligence makes hypotheses.
+Theories are empirical. Experience makes theories.
+
 A hypothesis is an idea that is intuitively true. A hypothesis becomes a theory after zealous, diligent testing fails to prove it false.
 
 Does science discover things that engineering puts to practical use or does engineering figure out useful things that science then explains?
