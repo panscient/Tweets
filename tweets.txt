@@ -520,6 +520,11 @@ The actors performance was moving, an effect that was effectively effected by hi
 
 Of common written languages, Korean is the most logical. Syllables are atomic and logographic like Chinese but phonemes are alphabetic like English such that learning pronunciation is simple.
 
+The first 3 rules of writing.
+1. Succinct sentences elucidate.
+2. Writing with simple words and grammar gets the point across to the reader in a way that is easier to understand.
+3. Simple sentences are clearest.
+
 Any analogy, extended far enough, fails. It is clearer to describe subjects directly, beginning with any prior knowledge needed to enable comprehension.
 
 Many things that are discretely categorical, if looked at closely enough, are on a continuous spectrum.
