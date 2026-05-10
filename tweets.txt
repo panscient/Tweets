@@ -290,6 +290,8 @@ Gifts signal caring but often give receivers less than the balance of happiness 
 
 Misinformation is as old as media. We will survive amplification by AI like we did the printing press. Leaders fear misinformation out of both benevolence and fear of losing power. Few see a difference. It’s worth considering free press principles in regulating AI.
 
+In Europe, people own their own data. In America, companies own people's data. In China, the government owns people's data.
+
 Pascal's Wager (believing in God because the potential gain of eternal life outweighs the finite cost of belief, while disbelief risks infinite loss) justifies AI precautionary regulation at any cost.
 
 Pessimism sells, especially when dressed up as optimism.
