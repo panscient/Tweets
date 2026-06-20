@@ -56,6 +56,8 @@ Entrepreneurs can be categorized six ways by their ranked desire for money, resp
 
 If economists had chosen the term “destructive creativity” instead of “creative destruction” maybe entrepreneurs would get more respect.
 
+An investor is a macroeconomics with accountability.
+
 Even a family-run convenience store is a corporation. Calling corporations greedy merely says that they try to earn money. The pejorative phrase “greedy corporation” is meaninglessly imprecise.
 
 Monopolies from innovation, whether through patents or the marketplace, make society more prosperous. Monopolies from political influence, coercion, or violence harm society. Good watchdogging recognizes the difference.
@@ -139,6 +141,8 @@ The phrase "supply-demand mismatch" in a market with elasticity is a misnomer fo
 
 Product innovation pushes the demand curve further from the origin.
 
+Computer engineering is humanity's most amazing technology, but genetic engineering is humanity's most powerful technology.
+
 Startup companies are the organizations actually curing cancer, creating crops that can end hunger, and engineering microbes to slow climate change. Venture capital is the most effective philanthropy.
 
 $1 donated to the Disease Foundation will help to relieve somebody's suffering in the near future. The same invested in the right startup will ensure that nobody in the farther future ever suffers the disease again. And return $100.
@@ -163,7 +167,9 @@ Does science discover things that engineering puts to practical use or does engi
 
 It is possible to be reasonable, rational, and wrong. It can be tempting, when right, to view a debating counterpart as unreasonable and irrational. The best debater admits when the other’s argument is reasonable and rational and explains why it is wrong.
 
-Children can understand the adage that "two wrongs don't make a right". In the adult world, a small wrong minus a big wrong does make a right.
+Children can understand the adage that "two wrongs don't make a right". In the adult world, a small wrong minus a big wrong is a right.
+
+How many people will not be kidnapped in Venezuela because one person was?
 
 Time is unidirectional. The accumulation of human knowledge tends to be. But it can be diminished. It has been in some earlier societies. The Nobel prize winners' book Why Nations Fail gives some examples.
 
@@ -176,6 +182,8 @@ Two kinds of efficiency:
 (b) Allocation of scarce resources to uses in a waterfall from most towards least important
 
 People tend to inaccurately estimate or even completely overlook event probabilities. As a result, in consideration of unpleasant but very improbable possibilities, people choose to incur, and policymakers impose, irrational costs for avoiding the possibility.
+
+Projects cost more than what is planned, even when accounting for projects costing more than what is planned.
 
 Being aboard any modern commercial airplane is much safer than driving, even in the safest automobiles. A modern autonomous vehicle is safer than one driven by even the safest person.
 
@@ -206,6 +214,8 @@ Social science has sides. Real science does not.
 What a social scientist writes tells about society. What they omit tells about them.
 
 Many social science publications are untrustworthy, consisting of an inferred intuitive conclusion with statistics implying a cause without explaining (a) how the cause leads to the conclusion and (b) how other causes would not lead to the same conclusion.
+
+Social proof (testimonials, recommendations, awards) is cheap. The Probell Prize in [your field] is 20% off, this month only.
 
 Few things in nature come in discrete values. Most things worth knowing can only be accurately described as amounts, degrees, or probabilities.
 
@@ -246,6 +256,8 @@ A human life begins somewhere between meiosis and college.
 Germ line gene editing would no more increase human inequality than, for example, access to electricity does. The fallacy otherwise is premised on the implausible assumption that costs of the technology will remain high over the timescale of human generations.
 
 Taste and smell are polydimensional but very low bandwidth. Hearing is 1D and fairly low bandwidth. Vision is 2D and high bandwidth, though writing is only 1D and fairly low bandwidth. Feel is 3D and low bandwidth. Augmented sensation can be polydimensional and high bandwidth.
+
+DNA literally stores digital information.
 
 Biology is digitally-programmed chemistry. In the past, programs were chaotic, created by trial and error. In the future they will be neat and intentional.
 
@@ -377,7 +389,11 @@ Unhappy teenagers are all alike; every happy teenager is happy in their own way.
 
 Happiness is self-determination and social inclusion.
 
+Most art is credited to individuals. Most science is credited to teams.
+
 Success belongs to the team. Responsibility is individual.
+
+Teamwork is great, but its effectiveness depends on team construction.
 
 Much of the greatest cruelty by and against humanity is enabled by placing the interests of the collective above those of the individual.
 
@@ -388,6 +404,15 @@ Most books can be well summarized in a tweet. But the effort of getting publishe
 Creativity varies inversely to formality of clothing worn. Few people have a stroke of genius at a gala ball, but artists and programmers wear t-shirts, and most people get their best ideas in the shower.
 
 A kitchen silverware drawer says a lot about somebody's personality.
+
+Children enjoy high speed. Young adults appreciate fast acceleration. May we all maintain the elasticity to tolerate big jerks.
+^-- Nerdily amusing on 6 levels: 
+* A mathematical lesson in first, second, and third derivatives of distance with respect to time
+* A technical lesson on terminology for mechanical phenomena
+* An uncommon insight about childhood development
+* A usage of precise physiological terminology
+* Advice on personal satisfaction in life
+* A clever play on words
 
 Rain turns dust into mud.
 Sun turns mud into dust.
@@ -426,6 +451,12 @@ Writing is like reading twice.
 A good thing about doing a lot of writing is that it creates many future opportunities to look back and find something that was right.
 
 Merely learning is selfish. Learning to teach is neutral. Learning and using the knowledge to create is respectable. If the creation is useful to others, the learning was noble.
+
+Four types of learners:
+1. Doesn't learn
+2. Learns from experience
+3. Learns from observation
+4. Learns by supposition and reasoning 
 
 Trying to prove others wrong is an effective way to learn. Failure is confirmation. Success is education. Keeping it to oneself helps to maintain friendly relationships. Trying to prove oneself wrong is equally effective but recurses faster.
 
@@ -490,6 +521,8 @@ Authentic scientists and honest experts rarely speak in absolutes.
 The point that divides the unchangeable from the unknowable is what we call now.
 
 The words “need” and “should” lack meaning unless accompanied by an explanation of a benefit of fulfilling or consequence of failure to fulfill what is allegedly required.
+
+Adjectives beginning with over- or under- are meaningless unless it is known what the proper amount is.
 
 Statements using words like “enough” or “too” without the word “to” or “for” are meaningless and beg critical questioning. For example, discussing whether 20 minutes is too long or not long enough is meaningless without specifying whether it is for baking a loaf of bread or a pizza.
 
