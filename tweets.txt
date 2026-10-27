@@ -186,6 +186,9 @@ Tokenization of concepts (words) and digitization (numbers) set humans apart fro
 Problem are sets of constraints that do not allow desired states.
 Solutions are the removal or circumvention of constraints.
 
+Optimism believes that problems can be solved.
+Pessimism assumes that they cannot.
+
 Two kinds of efficiency:
 (a) Allocation of scarce resources (e.g. energy, time, money, attention) to uses in proportion to importance
 (b) Allocation of scarce resources to uses in a waterfall from most towards least important
