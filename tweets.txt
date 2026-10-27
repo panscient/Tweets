@@ -183,6 +183,9 @@ Ignorance is conserved under intelligence. Knowledge of one thing creates uncert
 
 Tokenization of concepts (words) and digitization (numbers) set humans apart from other animals. They enable error-free information transfer, which enables precision in a noisy world, which enables communication of complex concepts, which enables the modern world.
 
+Problem are sets of constraints that do not allow desired states.
+Solutions are the removal or circumvention of constraints.
+
 Two kinds of efficiency:
 (a) Allocation of scarce resources (e.g. energy, time, money, attention) to uses in proportion to importance
 (b) Allocation of scarce resources to uses in a waterfall from most towards least important
