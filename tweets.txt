@@ -183,11 +183,13 @@ Ignorance is conserved under intelligence. Knowledge of one thing creates uncert
 
 Tokenization of concepts (words) and digitization (numbers) set humans apart from other animals. They enable error-free information transfer, which enables precision in a noisy world, which enables communication of complex concepts, which enables the modern world.
 
-Problem are sets of constraints that do not allow desired states.
+Problems are sets of constraints that do not allow desired states.
 Solutions are the removal or circumvention of constraints.
 
 Optimism believes that problems can be solved.
 Pessimism assumes that they cannot.
+
+A notable linguistic indicator: English speakers on the political left tend to use the word "issue" where ones on the political right would be more likely to say "problem".
 
 Two kinds of efficiency:
 (a) Allocation of scarce resources (e.g. energy, time, money, attention) to uses in proportion to importance
