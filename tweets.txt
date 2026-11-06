@@ -80,6 +80,8 @@ An increasing pace of innovation makes better products faster, increasing net in
 
 Innovations are successful when their benefits outweigh their negative effects. Mitigating those with another innovation makes life better. Restraining an innovation foregoes its benefits. Declaring it unethical makes a value judgement that is not universal.
 
+The larger groups grow, the smaller the percentage of people in them who innovate. Seemingly, company breeds contentment.
+
 Many technologies are seen as unethical when invented. But when their benefits become appreciated, denying them to people becomes unethical.
 
 The beauty of open source and distributed/decentralized systems is in realizing the benefits of division of labor without the costs of the principal-agent problem.
